@@ -11,6 +11,8 @@ public class Vote {
             System.out.println("Ineligible to vote");
         } else {
             System.out.println("Eligible to vote"); 
+            System.out.println("Eligible to vote"); 
+
         }
 
         scanner.close(); 
